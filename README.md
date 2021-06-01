@@ -6,3 +6,4 @@ Day 4: ANDROID(What, Why, How)
 Day 5: Dummy app Creation
 Day 6: First Application in Android Studio(Toast and Count)
 Day 7: Text Views and Scroll Views
+Day 8: Intents
