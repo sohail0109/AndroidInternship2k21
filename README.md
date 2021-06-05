@@ -8,3 +8,6 @@ Day 6: First Application in Android Studio(Toast and Count)
 Day 7: Text Views and Scroll Views
 Day 8: Intents
 Day 9: Activity Life Cycle and Application on Input Contents
+Day 10: Menus
+Day 11: ANDROID types
+Day 12: Time Picket and Tap Notification
